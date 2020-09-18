@@ -1,6 +1,6 @@
 {
-    "name": "rinvex/laravel-categories",
-    "description": "Rinvex Categories is a polymorphic Laravel package, for category management. You can categorize any eloquent model with ease, and utilize the power of Nested Sets, and the awesomeness of Sluggable, and Translatable models out of the box.",
+    "name": "tallesairan/laravel-categories",
+    "description": "Created By Rinvx, small fix for Laravel 8, Rinvex Categories is a polymorphic Laravel package, for category management. You can categorize any eloquent model with ease, and utilize the power of Nested Sets, and the awesomeness of Sluggable, and Translatable models out of the box.",
     "type": "library",
     "keywords": [
         "model",
@@ -52,7 +52,7 @@
     },
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.27.0",
-        "illuminate/container": "^7.0.0",
+        "illuminate/container": "^7.0|^8.0",
         "phpunit/phpunit": "^9.0.0"
     },
     "autoload": {
